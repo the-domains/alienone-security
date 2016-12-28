@@ -1,17 +1,17 @@
-typography_spectrum: 0.9062136670108885
+layout_spectrum: 0.6696647983790366
+typography_spectrum: 0.9058541823971538
 color:
-  brandStrength: 0.9254251450765878
-  lightness: 0.4824555041268468
-  saturation: 0.871231613913551
-  rhythmicContrast: 0.42909023631364107
+  brandStrength: 0.7023058782709707
+  lightness: 1
+  saturation: 0.9572629463785134
+  rhythmicContrast: 0.17728347235921735
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
 github: true
-layout_spectrum: 0.23000228125602007
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a13537f-4b5e-4468-9791-0e52b5b0400b.jpg
 name: AlienOne Security
