@@ -15,8 +15,8 @@ layout_spectrum: 0.23000228125602007
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a13537f-4b5e-4468-9791-0e52b5b0400b.jpg
 name: AlienOne Security
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d329ccf4-3713-40a0-85eb-5cee549b30a9.png
+url: 'http://www.alienonesecurity.com'
+favicon: null
 title: Evolution of Security
 content: []
 description: It is about the human not the machine...
