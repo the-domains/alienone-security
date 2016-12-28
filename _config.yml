@@ -1,0 +1,22 @@
+typography_spectrum: 0.9062136670108885
+color:
+  brandStrength: 0.9254251450765878
+  lightness: 0.4824555041268468
+  saturation: 0.871231613913551
+  rhythmicContrast: 0.42909023631364107
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+github: true
+layout_spectrum: 0.23000228125602007
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a13537f-4b5e-4468-9791-0e52b5b0400b.jpg
+name: AlienOne Security
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d329ccf4-3713-40a0-85eb-5cee549b30a9.png
+title: Evolution of Security
+content: []
+description: It is about the human not the machine...
